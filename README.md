@@ -3,13 +3,13 @@
 
 ## Author and Responsibility
 
-Zhenyu Ye (001393004): In charge of the architecture design, database design, UI design, messaging service, location configuration, notification configuration, and module's integration.
+Zhenyu Ye (001306083): In charge of the architecture design, database design, UI design, messaging service, location configuration, notification configuration, and module's integration.
 
 Jialiu Cui (001393004): In charge of the database design, authentication, item posting service, user service, and UI design.
 
 ## Introduction
 
-This is the final project of **Zhenyu Ye 001306083** & **Jialiu Cui ** for INFO6350 class 2020 spring. This is an app designed for users to quickly post, view items they want to buy or sell, and message each other on the items they are interested in just like a typical garage sale. We used flutter and firebase in this project.  
+This is the final project of **Zhenyu Ye 001306083** & **Jialiu Cui 001393004 ** for INFO6350 class 2020 spring. This is an app designed for users to quickly post, view items they want to buy or sell, and message each other on the items they are interested in just like a typical garage sale. We used flutter and firebase in this project.  
 
 ### Demo
 
